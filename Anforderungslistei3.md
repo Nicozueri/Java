@@ -1,0 +1,8 @@
+# Vorlage für Anforderungsliste für I3
+
+| „System Monitor“                                                    |                                                                                                                                                                                                                                                                                                                |
+| ----- | ---- |
+| **Fachlicher Inhalt:** <br> (Allgemeine Beschreibung)                 | **Nutzen**: Mit dem Programm sollen Systemdaten simuliert und übersichtlich dargestellt werden. <br> **Funktionalität:** Das Programm generiert Logs und ermöglicht das Anzeigen sowie Speichern dieser Daten. <br> **Details:** Konfiguration: im Code <br>Integration: lokal <br>Administration: über Konsolenmenü <br>Sicherheitsaspekte: keine echten Daten (Simulation) |
+| **MUSS** **Kriterien:** <br>(Konkrete Features, die umzusetzen sind) | **Folgende Features sollen implementiert werden, um einen produktiven Ablauf sicherzustellen:**  <br><ul><li>Das Konsolenprogramm ist nach dem EVA-Prinzip aufgebaut.</li><li>Menü zur Steuerung vorhanden</li><li>Logs werden generiert</li><li>Daten können gespeichert werden</li><li>Daten können angezeigt werden</li></ul> |
+| **SOLL** **Kriterien:** <br>(Konkrete Features, die optional sind)                  | **Folgende Features sollen bei Bedarf implementiert werden: (Future Release)**    <br><ul><li>Farbige Ausgabe</li><li>Einfache Auswertung der Logs</li></ul> |  
+# Chatgpt wurde für die Idee und für die Formatvorlage gebraucht
